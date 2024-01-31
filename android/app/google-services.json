@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937958117671",
+    "project_id": "carrent-b23d1",
+    "storage_bucket": "carrent-b23d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937958117671:android:0bf619288cd886b82c9902",
+        "android_client_info": {
+          "package_name": "com.example.gent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKrb-t7TIVRKCUjvAz5Agsr0mgg8-OUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
